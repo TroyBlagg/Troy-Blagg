@@ -1,0 +1,101 @@
+h1 {
+    text-align: center;
+    color: white;
+  }
+
+  .background {
+    background-color:#000000
+  }
+  
+  .container {
+    background-color: rgb(156, 156, 156);
+    padding: 10px;
+  }
+  
+  .marker {
+    width: 200px;
+    height: 25px;
+    margin: 10px auto;
+  }
+  
+  .cap {
+    width: 60px;
+    height: 25px;
+  }
+  
+  .sleeve {
+    width: 110px;
+    height: 25px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-left: 10px double rgba(0, 0, 0, 0.75);
+  }
+  
+  .cap, .sleeve {
+    display: inline-block;
+  }
+  
+  .red {
+    background: linear-gradient(#800020, #FF003F, #800020);
+    box-shadow: 0 0 20px 0 #FF003FCC;
+  }
+
+  .orange {
+    background: linear-gradient(#CC5200, #FF8533, #CC5200);
+    box-shadow: 0 0 20px 0 #FF6600CC;
+  }
+  
+  .green {
+    background: linear-gradient(#116C31, #52A670, #116C31);
+    box-shadow: 0 0 20px 0 #52A670CC;
+  }
+  
+  .blue {
+    background: linear-gradient(#000071, #0000FF , #000071);
+    box-shadow: 0 0 20px 0 #0000FFCC;
+  }
+  
+  .yellow {
+    background: linear-gradient(#999900, #FFFF00, #999900);
+    box-shadow: 0 0 20px 0 #FFFF00CC;
+  }
+  
+  .purple {
+    background: linear-gradient(#301934, #9E78EB, #301934);
+    box-shadow: 0 0 20px 0 #BF77F6CC;
+  }
+  
+  .cyan {
+    background: linear-gradient(#006666, #00FFFF, #006666);
+    box-shadow: 0 0 20px 0 #00FFFFCC;
+  }
+  
+  .pink {
+    background: linear-gradient(#8A668D, #F9B7FF, #8A668D);
+    box-shadow: 0 0 20px 0 #F9B7FFCC;
+  }
+
+  .silver {
+    background: linear-gradient(#555555, #ACACAC, #555555);
+    box-shadow: 0 0 20px 0 #ACACACCC;
+  }
+
+  .brown {
+    background: linear-gradient(#6A3525, #AF593E, #6A3525);
+    box-shadow: 0 0 20px 0 #AF593ECC;
+  }
+
+  .black {
+    background: linear-gradient(#201B1C, #413839, #201B1C);
+    box-shadow: 0 0 20px 0 #413839CC;
+  }
+
+  .white {
+    background: linear-gradient(#C8BCAC, #FCF3E7, #C8BCAC);
+    box-shadow: 0 0 20px 0 #C8BCACCC;
+  }
+
+  .random {
+    background: linear-gradient(#5B2208, #9F2208, #5B2208);
+    box-shadow: 0 0 20px 0 #C8BCACCC;
+  }
+  
