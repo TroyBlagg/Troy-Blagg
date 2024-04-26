@@ -1,0 +1,30 @@
+img {
+    justify-content: center;
+    width: 450px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+  }
+  
+  body {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+  
+  figure {
+     margin: 0 auto;
+     text-align: center;
+  }
+  
+  .image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  
+  ul {
+    text-align: left;
+  }
